@@ -1,0 +1,82 @@
+<table>
+	<tr>
+		<th>Nis</th>
+		<th>Nama Siswa</th>
+		<th>Kelas</th>
+		<th>Jurusan</th>
+		<th>Tempat Lahir</th>
+		<th>Tanggal Lahir</th>
+		<th>Beasiswa</th>
+		<th>Persen Spp</th>
+		<th>Persen Biaya Lain</th>
+		<th>Persen Baju Seragam</th>
+		<th>Uang Baju Seragam</th>
+	</tr>
+		<tr>
+		<td>17102001</td>
+		<td>Asep Husen</td>
+		<td>X</td>
+		<td>RPL</td>
+		<td>Tasikmalaya</td>
+		<td>2001-10-17</td>
+		<td></td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>450000</td>
+	</tr>
+		<tr>
+		<td>17102002</td>
+		<td>Hamdan Abdul A</td>
+		<td>X</td>
+		<td>RPL</td>
+		<td>Tasikmalaya</td>
+		<td>2001-10-12</td>
+		<td></td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>450000</td>
+	</tr>
+		<tr>
+		<td>17102003</td>
+		<td>Hasan Basyri</td>
+		<td>XI</td>
+		<td>RPL</td>
+		<td>Tasikmalaya</td>
+		<td>2001-10-13</td>
+		<td></td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>450000</td>
+	</tr>
+		<tr>
+		<td>17102004</td>
+		<td>Lutfi</td>
+		<td>XI</td>
+		<td>TKR</td>
+		<td>Tasikmalaya</td>
+		<td>2001-10-22</td>
+		<td></td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>450000</td>
+	</tr>
+		<tr>
+		<td>17102005</td>
+		<td>Dadang</td>
+		<td>X</td>
+		<td>TSM</td>
+		<td>Tasikmalaya</td>
+		<td>2001-10-01</td>
+		<td></td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>450000</td>
+	</tr>
+	</table>
+
+
